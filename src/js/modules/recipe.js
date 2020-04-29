@@ -40,7 +40,7 @@ export default class Recipe {
       "ounce",
       "teaspoons",
       "teaspoon",
-      "cups",
+      "cup",
       "pounds",
     ];
     const unitsShort = [
